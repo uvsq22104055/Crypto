@@ -28,7 +28,8 @@ https://www.dcode.fr/chiffre-cesar
 https://www.youtube.com/watch?v=OcKqANtoulU&t=412s
 https://calculis.net/code-cesar
 
-b. Chiffre de Vigenère
+b. Chiffre de Vigenère:
+https://www.youtube.com/watch?v=0JnC1jJa8C8
 
 c. Scytale
 https://fr.wikipedia.org/wiki/Scytale
