@@ -95,7 +95,7 @@ def vigenere_cryptage(c, cle):
 
 print(vigenere('BONDOUR. A TOUS', 'PYTHON'))
 
-def vigenere_cryptage(c, cle):
+def vigenere_decryptage(c, cle):
     indice_cle = 0
     msg_code =""
 
